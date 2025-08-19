@@ -1,5 +1,11 @@
 yfinance
-pandas
+pandas>=2.1.1
 matplotlib
 seaborn
 statsmodels
+numpy>=1.17.3
+cython
+scikit-learn
+scipy
+statsforecast
+tensorflow
